@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shivam1209567/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivam1209567/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
 ## Hash Table
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
