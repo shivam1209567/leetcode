@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/shivam1209567/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
