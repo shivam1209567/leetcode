@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/shivam1209567/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
+| [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -62,5 +63,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
