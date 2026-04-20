@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivam1209567/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
@@ -83,6 +84,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -91,5 +93,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
