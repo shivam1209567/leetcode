@@ -27,6 +27,7 @@
 | [0069-sqrtx](https://github.com/shivam1209567/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
