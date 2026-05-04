@@ -11,12 +11,14 @@
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam1209567/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shivam1209567/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0069-sqrtx](https://github.com/shivam1209567/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
@@ -68,6 +71,7 @@
 | [0190-reverse-bits](https://github.com/shivam1209567/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivam1209567/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -79,6 +83,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivam1209567/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,4 +115,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/shivam1209567/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivam1209567/leetcode/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
