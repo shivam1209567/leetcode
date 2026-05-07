@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
