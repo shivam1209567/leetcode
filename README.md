@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/shivam1209567/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shivam1209567/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
@@ -143,4 +146,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shivam1209567/leetcode/tree/master/0605-can-place-flowers) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
