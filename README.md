@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
@@ -153,6 +155,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
 ## Combinatorics
