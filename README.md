@@ -45,6 +45,7 @@
 | [0012-integer-to-roman](https://github.com/shivam1209567/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivam1209567/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shivam1209567/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shivam1209567/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shivam1209567/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivam1209567/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shivam1209567/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
