@@ -9,7 +9,7 @@ class Solution {
            for(int j = i; j < s.length(); j += jumps){
             res += s.charAt(j);
             if(i > 0 && i < numRows -1 && (j + jumps -2 * i) < s.length()){
-                res += s.charAt(j);
+                res += s.charAt(j+jumps - 2*i);
             }
            }
         }
