@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
@@ -35,6 +36,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -69,6 +71,7 @@
 | [0014-longest-common-prefix](https://github.com/shivam1209567/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivam1209567/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam1209567/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivam1209567/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
