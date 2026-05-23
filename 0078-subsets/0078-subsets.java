@@ -1,20 +1,17 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        ArrayList<Integer> subset = new ArrayList<>();
-        countsubset(nums,0,subset,result);
-        return result;
-
-    }
-    public static void countsubset(int[] nums, int i,ArrayList<Integer> subset, List<List<Integer>> result){
-        if(i == nums.length){
-            result.add(new ArrayList<>(subset));
-            return;
+    void backtrack(List<List<Integer>> res, List<Integer> curr,int[] nums,int start){
+        res.add(new ArrayList<>(curr));
+        for(int i = start; i < nums.length; i++){
+        curr.add(nums[i]);    
+        backtrack(res,curr,nums,i+1);
+        curr.remove(curr.size() - 1);
         }
-        subset.add(nums[i]);
-        countsubset(nums,i+1,subset,result);
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+    List<List<Integer>> res = new ArrayList<>();
+    List<Integer> curr = new ArrayList<>();
+    backtrack(res,curr,nums,0);
+    return res;
 
-        subset.remove(subset.size() - 1);
-        countsubset(nums,i+1,subset,result);
     }
 }
