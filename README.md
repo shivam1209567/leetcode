@@ -140,6 +140,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/shivam1209567/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shivam1209567/leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam1209567/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
