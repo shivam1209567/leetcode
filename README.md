@@ -38,6 +38,7 @@
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shivam1209567/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivam1209567/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -92,6 +93,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam1209567/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivam1209567/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivam1209567/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
@@ -243,6 +245,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam1209567/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shivam1209567/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivam1209567/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
