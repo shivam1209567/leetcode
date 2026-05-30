@@ -90,6 +90,7 @@
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam1209567/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -143,6 +144,7 @@
 | [0060-permutation-sequence](https://github.com/shivam1209567/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivam1209567/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
@@ -239,4 +241,9 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam1209567/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
