@@ -14,21 +14,28 @@ class Solution {
         ListNode temp = newNode;
         while(list1 != null && list2 != null){
             if(list1.val < list2.val){
-                ListNode n1 = new ListNode(list1.val);
-                temp.next = n1;
-                temp = n1;
+                // ListNode n1 = new ListNode(list1.val);
+                temp.next = new ListNode(list1.val);
+                // temp = n1;
+                temp = temp.next;
                 list1 = list1.next;
             }else{
-                ListNode n2 = new ListNode(list2.val);
-                temp.next = n2;
-                temp = n2;
+                // ListNode n2 = new ListNode(list2.val);
+                temp.next = new ListNode(list2.val);
+                // temp = n2;
+                temp = temp.next;
                 list2 = list2.next;
             }
         }
-        if(list2 == null){
-            temp.next = list1;
-        }else{
-            temp.next = list2;
+        while(list1 != null){
+            temp.next = new ListNode(list1.val);
+            temp = temp.next;
+            list1 = list1.next;;
+        }
+        while(list2 != null){
+            temp.next = new ListNode(list2.val);
+            temp = temp.next;
+            list2 = list2.next;
         }
         return newNode.next;
     }
