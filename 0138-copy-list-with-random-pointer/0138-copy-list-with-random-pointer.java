@@ -58,7 +58,7 @@ class Solution {
      temp1 = head;
      while(temp1 != null){
         temp1.next = temp1.next.next;
-        temp1 = temp2.next;
+        temp1 = temp1.next;
         if(temp1 == null) break;
         temp2.next = temp2.next.next;
         if(temp2.next == null) break;
