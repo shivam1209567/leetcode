@@ -61,7 +61,7 @@ class Solution {
         temp1 = temp1.next;
         if(temp1 == null) break;
         temp2.next = temp2.next.next;
-        if(temp2.next == null) break;
+        // if(temp2.next == null) break;
         temp2 = temp2.next;
      }
      return head2;
