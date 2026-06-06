@@ -27,6 +27,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/shivam1209567/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam1209567/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/shivam1209567/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2717-semi-ordered-permutation](https://github.com/shivam1209567/leetcode/tree/master/2717-semi-ordered-permutation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivam1209567/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam1209567/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -261,6 +262,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/shivam1209567/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
