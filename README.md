@@ -91,6 +91,7 @@
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -308,5 +309,6 @@
 | [0020-valid-parentheses](https://github.com/shivam1209567/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shivam1209567/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
