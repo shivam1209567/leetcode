@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/shivam1209567/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shivam1209567/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
@@ -105,6 +106,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam1209567/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivam1209567/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivam1209567/leetcode/tree/master/0141-linked-list-cycle) |
@@ -163,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/shivam1209567/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam1209567/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam1209567/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -311,6 +314,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam1209567/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shivam1209567/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shivam1209567/leetcode/tree/master/0155-min-stack) |
@@ -326,6 +330,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/shivam1209567/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
