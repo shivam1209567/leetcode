@@ -17,14 +17,16 @@ class Solution {
             }
             st.push(i);
             }
+        int j = 0;
         for(int i = 0; i < n - k + 1; i++){
-           int j = i;
+        if(j >= i + k) j = i;
            int max = nums[j];
-           while(arr[j] < i + k){
-             j = arr[j];
-              }
-            ans[i] = nums[j];
-          
+           while(j < i+k){
+            max = nums[j];
+
+            j = arr[j];
+           }
+           ans[i] = max;
         }
         return ans;
      }
