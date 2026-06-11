@@ -21,12 +21,12 @@ class Solution {
         for(int i = 0; i < n - k + 1; i++){
         if(j >= i + k) j = i;
            int max = nums[j];
-           while(j < i+k){
-            max = nums[j];
+           while(j < i+k){ //j < i+k;
+            max = nums[j]; //j = nsg[j]
 
             j = arr[j];
            }
-           ans[i] = max;
+           ans[i] = max;//ans[i] = nsg[j];
         }
         return ans;
      }
