@@ -92,6 +92,7 @@
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -185,6 +186,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shivam1209567/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -319,6 +321,7 @@
 | [0143-reorder-list](https://github.com/shivam1209567/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shivam1209567/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/shivam1209567/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
