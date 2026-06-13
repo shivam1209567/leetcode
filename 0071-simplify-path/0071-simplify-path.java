@@ -1,4 +1,13 @@
 class Solution {
+    void rec(Stack<String> st ,StringBuilder str){
+        if(st.isEmpty()){
+            return;
+        } 
+        String temp = st.pop();
+        rec(st,str);
+        str.append("/");
+        str.append(temp);
+    }
     public String simplifyPath(String path) {
         String arr[] = path.split("/");
         Stack<String> st = new Stack<>();
@@ -11,9 +20,7 @@ class Solution {
             }
         }
         StringBuilder ans = new StringBuilder();
-        for (String dir : st) {
-          ans.append("/").append(dir);
-}
+        rec(st,ans);
         return ans.length() == 0 ? "/" : ans.toString();
      }
 }
