@@ -90,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivam1209567/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/shivam1209567/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
@@ -317,6 +318,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam1209567/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shivam1209567/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shivam1209567/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shivam1209567/leetcode/tree/master/0155-min-stack) |
