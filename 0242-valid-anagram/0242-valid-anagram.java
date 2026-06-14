@@ -5,11 +5,10 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             int l = s.charAt(i) - 'a';
             count[l]++;
+              int m = t.charAt(i) - 'a';
+            count[m]--;
         }
-        for(int i = 0; i < s.length(); i++){
-            int l = t.charAt(i) - 'a';
-            count[l]--;
-        }
+        
         for(int i = 0; i < count.length; i++){
             if(count[i] != 0){
                return false;
