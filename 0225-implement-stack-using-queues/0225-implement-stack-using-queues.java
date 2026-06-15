@@ -7,32 +7,28 @@ class MyStack {
     }
     
     public void push(int x) {
+        if(q1.size() == 0){
         q1.add(x);
+        }else{
+            q1.add(x);
+            int a = q1.size();
+            for(int i = 0; i < a-1; i++){
+                q2.add(q1.remove());
+            }
+            int b = q2.size();
+            for(int i = 0; i < b; i++){
+                q1.add(q2.remove());
+            }
+        }
+
     }
     
     public int pop() {
-        int s = q1.size();
-     for(int i = 0; i < s-1; i++){
-        q2.add(q1.remove());
-      }  
-      int l = q1.remove();
-      while(!q2.isEmpty()){
-        q1.add(q2.remove());
-      }
-      return l;
+      return q1.remove();
     }
     
     public int top() {
-       int s = q1.size();
-        for(int i = 0; i < s-1; i++){
-          q2.add(q1.remove());
-        }
-        int l = q1.peek();
-        q2.add(q1.remove());
-       while(!q2.isEmpty()){
-            q1.add(q2.remove());
-        }
-        return l;
+      return q1.peek();
     }
     
     public boolean empty() {
