@@ -7,15 +7,14 @@ class Solution {
         int freq = 0;
         int ans = 0;
         int temp = 0;
-        for(var x : map.entrySet()){
-             if(freq == x.getValue()){
-                ans += freq;
-               
-            }
-            if(x.getValue() > freq){
-               freq = x.getValue();
-               ans = freq;
+        for(int x : map.values()){
+             
+            if(x > freq){
+               freq = x;
+               ans = x;
               
+            }else if(freq == x){
+                ans += x;
             }
            
         }
