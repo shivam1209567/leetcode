@@ -54,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/shivam1209567/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivam1209567/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivam1209567/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/shivam1209567/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -102,6 +103,7 @@
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shivam1209567/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/shivam1209567/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/shivam1209567/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
