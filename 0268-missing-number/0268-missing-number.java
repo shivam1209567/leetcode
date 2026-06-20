@@ -1,20 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-      Arrays.sort(nums);
-      return res(nums,0);  
-    }
-    public static int res(int [] nums, int c){
-        if(c == nums.length){
-            return nums.length;
+        int l = nums.length;
+        int sum = l*(l+1)/2;
+        int ans = 0;
+        for(int i = 0; i < nums.length; i++){
+             ans += nums[i];
         }
-        
-        if(nums[c] != c){
-        
-        
-        return c;
-        }
-        return res(nums,c+1);
+        int m = sum - ans;
+        return m;
     }
-        
-    
+  
 }
