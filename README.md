@@ -353,6 +353,7 @@
 | [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shivam1209567/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/shivam1209567/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shivam1209567/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/shivam1209567/leetcode/tree/master/0224-basic-calculator) |
@@ -394,4 +395,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivam1209567/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
