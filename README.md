@@ -409,6 +409,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -418,6 +419,7 @@
 | [0100-same-tree](https://github.com/shivam1209567/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -428,6 +430,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
