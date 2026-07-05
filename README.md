@@ -351,6 +351,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -436,6 +437,7 @@
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/shivam1209567/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -465,4 +467,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/shivam1209567/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
