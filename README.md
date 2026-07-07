@@ -438,6 +438,7 @@
 | [0437-path-sum-iii](https://github.com/shivam1209567/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -461,6 +462,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0437-path-sum-iii](https://github.com/shivam1209567/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -487,6 +489,7 @@
 | [0437-path-sum-iii](https://github.com/shivam1209567/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
