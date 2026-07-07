@@ -23,6 +23,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam1209567/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shivam1209567/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
@@ -230,6 +231,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivam1209567/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/shivam1209567/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivam1209567/leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
@@ -419,6 +421,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shivam1209567/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/shivam1209567/leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -464,6 +467,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shivam1209567/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/shivam1209567/leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -497,6 +501,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
