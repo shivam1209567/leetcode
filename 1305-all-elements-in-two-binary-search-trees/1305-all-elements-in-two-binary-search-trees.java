@@ -1,42 +1,71 @@
 class Solution {
-
-    void pushLeft(TreeNode root, Stack<TreeNode> st) {
-        while (root != null) {
-            st.push(root);
-            root = root.left;
+    void merge(ArrayList<Integer> a, ArrayList<Integer> b, ArrayList<Integer> c){
+        int i = 0,j = 0;
+        while(i < a.size() && j < b.size()){
+            if(a.get(i) < b.get(j)){
+                c.add(a.get(i));
+                i++;
+            }
+            else {
+                c.add(b.get(j));
+                j++;
+            }
+        }
+        if(i < a.size()){
+            while(i < a.size()){
+                c.add(a.get(i));
+                i++;
+            }
+        }else{
+            while(j < b.size()){
+                c.add(b.get(j));
+                j++;
+            }
         }
     }
-
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
-
-        Stack<TreeNode> s1 = new Stack<>();
-        Stack<TreeNode> s2 = new Stack<>();
-
-        List<Integer> ans = new ArrayList<>();
-
-        pushLeft(root1, s1);
-        pushLeft(root2, s2);
-
-        while (!s1.isEmpty() || !s2.isEmpty()) {
-
-            Stack<TreeNode> st;
-
-            if (s1.isEmpty())
-                st = s2;
-            else if (s2.isEmpty())
-                st = s1;
-            else if (s1.peek().val < s2.peek().val)
-                st = s1;
-            else
-                st = s2;
-
-            TreeNode node = st.pop();
-
-            ans.add(node.val);
-
-            pushLeft(node.right, st);
+        ArrayList<Integer> a = new ArrayList<>();
+        ArrayList<Integer> b = new ArrayList<>();
+        TreeNode curr = root1;
+        while(curr != null){
+            if(curr.left != null){
+                TreeNode pred = curr.left;
+                while(pred.right != null && pred.right != curr) pred = pred.right;
+                if(pred.right == null){
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                if(pred.right == curr){
+                    pred.right = null;
+                    a.add(curr.val);
+                    curr = curr.right;
+                }
+            }else{
+                a.add(curr.val);
+                curr = curr.right;
+            }
+        } 
+        curr = root2;
+        while(curr != null){
+            if(curr.left != null){
+                TreeNode pred = curr.left;
+                while(pred.right != null && pred.right != curr) pred = pred.right;
+                if(pred.right == null){
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                if(pred.right == curr){
+                    pred.right = null;
+                    b.add(curr.val);
+                    curr = curr.right;
+                }
+            }else{
+                b.add(curr.val);
+                curr = curr.right;
+            }
         }
-
-        return ans;
+        ArrayList<Integer> c = new ArrayList<>();
+        merge(a,b,c);
+        return c;
     }
 }
