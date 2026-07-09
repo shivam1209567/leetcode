@@ -444,6 +444,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivam1209567/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -472,6 +473,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivam1209567/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -502,6 +504,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivam1209567/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -534,6 +537,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivam1209567/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
