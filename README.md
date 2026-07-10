@@ -41,6 +41,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/shivam1209567/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam1209567/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2239-find-closest-number-to-zero](https://github.com/shivam1209567/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/shivam1209567/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2717-semi-ordered-permutation](https://github.com/shivam1209567/leetcode/tree/master/2717-semi-ordered-permutation) |
