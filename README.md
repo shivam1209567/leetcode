@@ -34,6 +34,7 @@
 | [0605-can-place-flowers](https://github.com/shivam1209567/leetcode/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -295,6 +296,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
