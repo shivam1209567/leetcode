@@ -33,6 +33,7 @@
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/shivam1209567/leetcode/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -94,6 +95,7 @@
 | [0342-power-of-four](https://github.com/shivam1209567/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam1209567/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -241,6 +243,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -254,6 +257,7 @@
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2126-destroying-asteroids](https://github.com/shivam1209567/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam1209567/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -296,6 +300,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -556,4 +561,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
