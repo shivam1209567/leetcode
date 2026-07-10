@@ -30,6 +30,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/shivam1209567/leetcode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -70,6 +71,7 @@
 | [0205-isomorphic-strings](https://github.com/shivam1209567/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -245,6 +247,7 @@
 | [0190-reverse-bits](https://github.com/shivam1209567/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shivam1209567/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -260,6 +263,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -304,6 +308,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shivam1209567/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -318,6 +323,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -326,6 +332,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivam1209567/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -568,6 +575,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
