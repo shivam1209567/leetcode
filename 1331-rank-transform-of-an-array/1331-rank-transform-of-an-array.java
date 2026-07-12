@@ -1,0 +1,28 @@
+import java.util.*;
+
+class Solution {
+    public int[] arrayRankTransform(int[] arr) {
+        int[] sorted = arr.clone();
+
+        Arrays.sort(sorted);
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int rank = 1;
+
+        for (int i = 0; i < sorted.length; i++) {
+            if (i > 0 && sorted[i] == sorted[i - 1]) {
+                continue;
+            }
+
+            map.put(sorted[i], rank);
+            rank++;
+        }
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = map.get(arr[i]);
+        }
+
+        return arr;
+    }
+}
