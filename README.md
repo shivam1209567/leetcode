@@ -104,6 +104,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/shivam1209567/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam1209567/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam1209567/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
