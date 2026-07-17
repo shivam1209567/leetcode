@@ -145,6 +145,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/shivam1209567/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
