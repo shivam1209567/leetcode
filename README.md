@@ -130,6 +130,7 @@
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/shivam1209567/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivam1209567/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivam1209567/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/shivam1209567/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -145,6 +146,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shivam1209567/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivam1209567/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivam1209567/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +435,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/shivam1209567/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivam1209567/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivam1209567/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/shivam1209567/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivam1209567/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/shivam1209567/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -511,6 +514,7 @@
 | [0113-path-sum-ii](https://github.com/shivam1209567/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/shivam1209567/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
