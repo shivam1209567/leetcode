@@ -46,6 +46,7 @@
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shivam1209567/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam1209567/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/shivam1209567/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -145,6 +146,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/shivam1209567/leetcode/tree/master/2717-semi-ordered-permutation) |
 ## Binary Search
 | Problem Name | Difficulty |
