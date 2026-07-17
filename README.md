@@ -82,6 +82,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shivam1209567/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shivam1209567/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -143,6 +144,7 @@
 | [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
+| [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivam1209567/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shivam1209567/leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
