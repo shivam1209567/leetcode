@@ -42,6 +42,7 @@
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shivam1209567/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivam1209567/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -85,6 +86,7 @@
 | [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shivam1209567/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivam1209567/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -112,6 +114,7 @@
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shivam1209567/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivam1209567/leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -367,6 +370,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivam1209567/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
