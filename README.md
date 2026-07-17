@@ -47,6 +47,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam1209567/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shivam1209567/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam1209567/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/shivam1209567/leetcode/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -147,6 +148,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivam1209567/leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
